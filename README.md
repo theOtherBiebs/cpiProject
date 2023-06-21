@@ -5,10 +5,10 @@ The first code published will be both a Jupyter notebook and a .py file that cre
 
 The download links for the necessary text files are located:
 
-https://download.bls.gov/pub/time.series/ap/ap.data.0.Current
-https://download.bls.gov/pub/time.series/ap/ap.series
-https://download.bls.gov/pub/time.series/cu/cu.data.0.Current
-https://download.bls.gov/pub/time.series/cu/cu.series
+https://download.bls.gov/pub/time.series/ap/ap.data.0.Current  
+https://download.bls.gov/pub/time.series/ap/ap.series  
+https://download.bls.gov/pub/time.series/cu/cu.data.0.Current  
+https://download.bls.gov/pub/time.series/cu/cu.series  
 
 You'll have your best luck manually downloading these files by visiting the page and right-clicking; these files are too big to load in your browser, and the BLS restricts scraping (but does not specify under what circumstances a scraper would be allowed.) If you are aware of how to get an automated download of this data going that would simplify things for anyone who wants to repeat what I've done here.
 
